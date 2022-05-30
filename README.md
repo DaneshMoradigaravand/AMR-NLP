@@ -39,7 +39,9 @@ Here we use the Bio library to systematically fetch abstracts containing the ter
 After creating a corpus of abstract texts, we cleaned the data using NLP tools implemented in ***gensim***, ***nLTK*** and ***spaCy*** libraries. The preprocessing includeds following steps:
 
 1- removing stop words 
-2- reoving special characters 
+
+2- reoving special characters
+
 3- lemmatization 
 
 We used the word2vec function in the ***gensim*** library to compute the word2vec embedding for antibiotic and location terms. 
