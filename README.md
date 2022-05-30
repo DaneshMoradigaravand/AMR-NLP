@@ -1,7 +1,6 @@
-# AMR-NLP
-A library of tools to curate the embeddings and extract patterns from medical literature on AMR
-
 # Systematic Analysis of Global Patterns of the Epidemiology of Antimicrobial Resistance from Literature using Natural Language Processing Approaches
+
+A library of tools to curate the embeddings and extract patterns from medical literature on AMR
 
 ## Table of contents
 1. [Citation](#citation)
