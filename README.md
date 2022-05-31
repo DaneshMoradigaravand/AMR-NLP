@@ -40,7 +40,7 @@ After creating a corpus of abstract texts, we cleaned the data using NLP tools i
 
 1- removing stop words 
 
-2- reoving special characters
+2- removing special characters
 
 3- lemmatization 
 
